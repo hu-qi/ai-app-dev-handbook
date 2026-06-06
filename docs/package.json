@@ -1,0 +1,1 @@
+{"scripts":{"dev":"vitepress --host 0.0.0.0","build":"vitepress build","preview":"vitepress preview"},"dependencies":{"vitepress":"1.6.3","vue":"3.5.13"},"devDependencies":{}}
